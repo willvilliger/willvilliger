@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willvilliger
-- 👀 I’m interested in code
+- 👀 I’m interested in IOT 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IOT Projects
 - 📫 How to reach me willvilliger@gmail.com
 
 <!---
